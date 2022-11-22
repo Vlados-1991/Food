@@ -41,7 +41,7 @@
 
     //Timer
 
-    const deadline = '2023-12-11';
+    const deadline = '2023-01-11';
 
     function getTimeRemaining(endtime) {
         let days, hours, minutes, seconds;
