@@ -445,7 +445,7 @@
     calcTotal();
 
     // function getStaticInformation(parentSelector, activeClass) {
-    //     const
+    //     
     // }
 
 });
