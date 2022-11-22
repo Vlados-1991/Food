@@ -41,7 +41,7 @@
 
     //Timer
 
-    const deadline = '2023-12-11';
+    const deadline = '2020-12-11';
 
     function getTimeRemaining(endtime) {
         let days, hours, minutes, seconds;
@@ -444,8 +444,8 @@
 
     calcTotal();
 
-    function getStaticInformation(parentSelector, activeClass) {
-        const 
-    }
+    // function getStaticInformation(parentSelector, activeClass) {
+    //     const
+    // }
 
 });
